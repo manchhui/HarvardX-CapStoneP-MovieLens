@@ -7,6 +7,6 @@ In this **project**, we created a movie recommendation system using a large subs
 ## Files in the repository
 **MovieLensProj-code.R** - This R file needs to be ran first to create and store the datafiles that feeds the .rmd file below.
 
-**MovieLensProj.rmd** - This .rmd file creates the final project .pdf.
+**MovieLensProj.rmd** - This .rmd file creates the fully reproducible final project .pdf.
 
 **MovieLensProj.pdf** - Final Project .pdf file.
